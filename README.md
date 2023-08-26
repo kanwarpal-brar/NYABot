@@ -1,7 +1,9 @@
+<!--start-->
 # NYABot
 A simple and versatile discord bot, written in python, using [Discord.py](https://github.com/Rapptz/discord.py) and [YTDL](https://github.com/ytdl-org/youtube-dl).
 NYABot is an long-term project of mine, designed for my personal discord. However, it's design does not prevent the bot from working across
 multiple servers.
+<!--end-->
 <br/>
 
 ## About NYABot
